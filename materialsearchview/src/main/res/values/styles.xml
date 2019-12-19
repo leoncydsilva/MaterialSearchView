@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SearchDialog" parent="ThemeOverlay.AppCompat.Dialog">
+        <item name="android:windowMinWidthMinor">100%</item>
+    </style>
+</resources>

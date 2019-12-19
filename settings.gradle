@@ -1,0 +1,3 @@
+rootProject.name='MaterialSearchViewExample'
+include ':app'
+include ':materialsearchview'

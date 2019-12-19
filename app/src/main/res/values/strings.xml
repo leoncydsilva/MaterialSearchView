@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialSearchViewExample</string>
+    <string name="button_label_kotlin">Kotlin</string>
+    <string name="button_label_java">Java</string>
+</resources>
