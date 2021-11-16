@@ -1,6 +1,6 @@
 # MaterialSearchView
 
-MaterialSearchview is an Android Library with circular reveal effect. MaterialSearchView adheres lifeCycleEvents of Activity automatically so there will no changes of Window leak/Memory Leak.
+MaterialSearchview is an Android Library with circular reveal effect. MaterialSearchView adheres lifeCycleEvents of Activity automatically so there will no Window leak/Memory Leak.
 
 ![](sampleImages/image_01.gif)
 
